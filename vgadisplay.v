@@ -1,4 +1,4 @@
-module justvgadisplay(iResetn,iBlack,iClock,
+module vgadisplay(iResetn,iBlack,iClock,
 	bg_0,
 	bg_1,
 	bg_2,
