@@ -1,4 +1,4 @@
-module justonscreen
+module onscreen
 	(
 		CLOCK_50,						//	On Board 50 MHz
 		// Your inputs and outputs here
