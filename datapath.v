@@ -1,4 +1,4 @@
-module new_block(
+module datapath(
 	input clk,
 	input reset,
 	input start,
