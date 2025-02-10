@@ -61,7 +61,7 @@ wire done;
 //);
 
 
-new_block n0(
+datapath n0(
 	clk,
 	reset,
 	new_en,
